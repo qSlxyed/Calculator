@@ -35,7 +35,7 @@ num2 = float(input("Input Second Number:"))
 
 
 
-# operation ( Main calculation part here )
+
 if choice == '1':
     print(num1, "+", num2, "=", add(num1, num2))
 
